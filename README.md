@@ -22,9 +22,9 @@ NLP foundations introduces various ways to represent text numerically including 
 
 | Topic |  About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides) | To be used for the full session, includes the labs below  |
-| [text-frequency.ipynb](./02-text-frequency) | First code-a-long and mini-lab  |
-| [embeddings.ipynb](./03-embeddings) | Second code-a-long |
+| [Full Lesson Deck](https://github.com/ga-curriculum/nlp-llms-foundations/blob/main/01-slides/NLP-LLMs%201%20Foundations%20of%20Modern%20NLP.pdf){:target="_blank"} | To be used for the full session, includes the labs below  |
+| [text-frequency.ipynb](https://github.com/ga-curriculum/nlp-llms-foundations/tree/main/02-text-frequency){:target="_blank"} | First code-a-long and mini-lab  |
+| [embeddings.ipynb](https://github.com/ga-curriculum/nlp-llms-foundations/tree/main/03-embeddings){:target="_blank"} | Second code-a-long |
 
 
 ## Prerequisites
